@@ -1,0 +1,1 @@
+import{h as e}from"./store-DDIcN_Wz.js";import{n as t,t as n}from"./verify-order-CTknkl4W.js";import{a as r}from"./index-CHckP7ph.js";var i=e();function a(){return(0,i.jsxs)(t,{children:[(0,i.jsx)(r,{}),(0,i.jsx)(n,{})]})}export{a as component};
